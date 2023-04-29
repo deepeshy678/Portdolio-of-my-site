@@ -163,6 +163,7 @@ input[type=text], select, textarea {
     width: 50%;
     margin-top: 6px;
     padding: 20px;
+       text-align: right;
   }
   
   /* Clear floats after the columns */
